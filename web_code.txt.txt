@@ -4,10 +4,9 @@ git commit -m "create fail name"
 git bush
 git pull
 
+$ git config --global user.name "Tawhed"
+$ git config --global user.email  fr.aljadiri.com
 
 
 
-
-
-
-tawhed-66
+ 
