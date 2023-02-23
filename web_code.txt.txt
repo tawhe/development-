@@ -5,12 +5,4 @@ git bush
 git pull
 
 $ git config --global user.name "Tawhed"
-$ git config --global user.email  fr.aljadiri.com
-
-
-__________________________________________________
-tawhed.66
-
-
-
- 
+$ git config --global user.email  fr.aljadiri.com 
