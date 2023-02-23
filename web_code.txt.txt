@@ -8,11 +8,13 @@ $ git config --global user.name "Tawhed"
 $ git config --global user.email  fr.aljadiri.com
 
 
+git pranch
+git checkout
+git status
 
 
 
------------------------------------
-tawhed66
+
 
 
 
